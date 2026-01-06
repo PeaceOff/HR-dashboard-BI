@@ -1,5 +1,5 @@
 # HR-dashboard-BI
-#  HR Dashboard – Employee Insights
+##  HR Dashboard – Employee Insights
 
 This Power BI dashboard gives a clear, interactive snapshot of an organization’s workforce at a glance. It’s designed to help HR teams quickly understand employee distribution, potential promotion or retrenchment needs, experience levels, and other key workforce metrics without digging through spreadsheets.
 
